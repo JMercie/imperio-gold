@@ -2,7 +2,7 @@
   [
     "ui/app@0.0.1",
     {
-      "ownHash": "71cb8f8c42b428459408dca3e0ae787d",
+      "ownHash": "38782a4c71847820fec3e384eb712ed8",
       "module": "./cache/ui_app_0_0_1.js",
       "moduleMeta": "./cache/ui_app_0_0_1.meta.json"
     }
@@ -24,11 +24,11 @@
     }
   ],
   [
-    "lwr/init@0.7.3",
+    "lwr/esmLoader@0.7.3",
     {
-      "ownHash": "6258bcb20cc2d5d6a9f3c5a6f9d0acaf",
-      "module": "./cache/lwr_init_0_7_3.js",
-      "moduleMeta": "./cache/lwr_init_0_7_3.meta.json"
+      "ownHash": "81a48ed6a08225f2591acd34624d1b85",
+      "module": "./cache/lwr_esmLoader_0_7_3.js",
+      "moduleMeta": "./cache/lwr_esmLoader_0_7_3.meta.json"
     }
   ],
   [
@@ -40,27 +40,11 @@
     }
   ],
   [
-    "lwr/esmLoader@0.7.3",
+    "lwr/init@0.7.3",
     {
-      "ownHash": "81a48ed6a08225f2591acd34624d1b85",
-      "module": "./cache/lwr_esmLoader_0_7_3.js",
-      "moduleMeta": "./cache/lwr_esmLoader_0_7_3.meta.json"
-    }
-  ],
-  [
-    "lwc@2.17.0",
-    {
-      "ownHash": "60dae7a83431c35c02c87ca8aaaa6044",
-      "module": "./cache/lwc_2_17_0.js",
-      "moduleMeta": "./cache/lwc_2_17_0.meta.json"
-    }
-  ],
-  [
-    "lwr/profiler@0.7.3",
-    {
-      "ownHash": "5a10236d8c52bc9f6dee22875cd7016d",
-      "module": "./cache/lwr_profiler_0_7_3.js",
-      "moduleMeta": "./cache/lwr_profiler_0_7_3.meta.json"
+      "ownHash": "6258bcb20cc2d5d6a9f3c5a6f9d0acaf",
+      "module": "./cache/lwr_init_0_7_3.js",
+      "moduleMeta": "./cache/lwr_init_0_7_3.meta.json"
     }
   ],
   [
@@ -80,11 +64,35 @@
     }
   ],
   [
+    "lwr/profiler@0.7.3",
+    {
+      "ownHash": "5a10236d8c52bc9f6dee22875cd7016d",
+      "module": "./cache/lwr_profiler_0_7_3.js",
+      "moduleMeta": "./cache/lwr_profiler_0_7_3.meta.json"
+    }
+  ],
+  [
+    "lwc@2.17.0",
+    {
+      "ownHash": "60dae7a83431c35c02c87ca8aaaa6044",
+      "module": "./cache/lwc_2_17_0.js",
+      "moduleMeta": "./cache/lwc_2_17_0.meta.json"
+    }
+  ],
+  [
     "ui/app#app.html@0.0.1",
     {
-      "ownHash": "11ed53d75288d94f7b2ce579269e0fe8",
+      "ownHash": "7ac3c91a9bb1d112088f5eb898747421",
       "module": "./cache/ui_app_app_html_0_0_1.js",
       "moduleMeta": "./cache/ui_app_app_html_0_0_1.meta.json"
+    }
+  ],
+  [
+    "ui/app#app.scoped.css?scoped=true@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/ui_app_app_scoped_css_scoped=true_0_0_1.js",
+      "moduleMeta": "./cache/ui_app_app_scoped_css_scoped=true_0_0_1.meta.json"
     }
   ],
   [
@@ -96,11 +104,27 @@
     }
   ],
   [
-    "ui/app#app.scoped.css?scoped=true@0.0.1",
+    "constants@0.0.1",
     {
-      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
-      "module": "./cache/ui_app_app_scoped_css_scoped=true_0_0_1.js",
-      "moduleMeta": "./cache/ui_app_app_scoped_css_scoped=true_0_0_1.meta.json"
+      "ownHash": "a7503491709a399f8dcfef4c766e48a1",
+      "module": "./cache/constants_0_0_1.js",
+      "moduleMeta": "./cache/constants_0_0_1.meta.json"
+    }
+  ],
+  [
+    "ui/app#constants@0.0.1",
+    {
+      "ownHash": "a7503491709a399f8dcfef4c766e48a1",
+      "module": "./cache/ui_app_constants_0_0_1.js",
+      "moduleMeta": "./cache/ui_app_constants_0_0_1.meta.json"
+    }
+  ],
+  [
+    "ui/app#constants.js@0.0.1",
+    {
+      "ownHash": "865d61269be9f5bf1eae22a1033089f5",
+      "module": "./cache/ui_app_constants_js_0_0_1.js",
+      "moduleMeta": "./cache/ui_app_constants_js_0_0_1.meta.json"
     }
   ]
 ]
