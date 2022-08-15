@@ -16,19 +16,11 @@
     }
   ],
   [
-    "lwr/esmLoader@0.7.3",
+    "@lwc/synthetic-shadow@2.17.0",
     {
-      "ownHash": "81a48ed6a08225f2591acd34624d1b85",
-      "module": "./cache/lwr_esmLoader_0_7_3.js",
-      "moduleMeta": "./cache/lwr_esmLoader_0_7_3.meta.json"
-    }
-  ],
-  [
-    "lwr/hmr@0.7.3",
-    {
-      "ownHash": "b6c05a5d79ea66f651b367c2a6190189",
-      "module": "./cache/lwr_hmr_0_7_3.js",
-      "moduleMeta": "./cache/lwr_hmr_0_7_3.meta.json"
+      "ownHash": "c4cac82d80eb0bcda742d77cd15ce7f1",
+      "module": "./cache/_lwc_synthetic-shadow_2_17_0.js",
+      "moduleMeta": "./cache/_lwc_synthetic-shadow_2_17_0.meta.json"
     }
   ],
   [
@@ -40,27 +32,19 @@
     }
   ],
   [
-    "lwr/metrics@0.7.3",
+    "lwr/hmr@0.7.3",
     {
-      "ownHash": "dfbc827104d50ff7d16b59c9d0e06aca",
-      "module": "./cache/lwr_metrics_0_7_3.js",
-      "moduleMeta": "./cache/lwr_metrics_0_7_3.meta.json"
+      "ownHash": "b6c05a5d79ea66f651b367c2a6190189",
+      "module": "./cache/lwr_hmr_0_7_3.js",
+      "moduleMeta": "./cache/lwr_hmr_0_7_3.meta.json"
     }
   ],
   [
-    "lwr/hmr#util/swap@0.7.3",
+    "lwr/esmLoader@0.7.3",
     {
-      "ownHash": "b90e85947b9514fa4d53fbced946e451",
-      "module": "./cache/lwr_hmr_util_swap_0_7_3.js",
-      "moduleMeta": "./cache/lwr_hmr_util_swap_0_7_3.meta.json"
-    }
-  ],
-  [
-    "lwr/profiler@0.7.3",
-    {
-      "ownHash": "5a10236d8c52bc9f6dee22875cd7016d",
-      "module": "./cache/lwr_profiler_0_7_3.js",
-      "moduleMeta": "./cache/lwr_profiler_0_7_3.meta.json"
+      "ownHash": "81a48ed6a08225f2591acd34624d1b85",
+      "module": "./cache/lwr_esmLoader_0_7_3.js",
+      "moduleMeta": "./cache/lwr_esmLoader_0_7_3.meta.json"
     }
   ],
   [
@@ -72,9 +56,33 @@
     }
   ],
   [
+    "lwr/profiler@0.7.3",
+    {
+      "ownHash": "5a10236d8c52bc9f6dee22875cd7016d",
+      "module": "./cache/lwr_profiler_0_7_3.js",
+      "moduleMeta": "./cache/lwr_profiler_0_7_3.meta.json"
+    }
+  ],
+  [
+    "lwr/hmr#util/swap@0.7.3",
+    {
+      "ownHash": "b90e85947b9514fa4d53fbced946e451",
+      "module": "./cache/lwr_hmr_util_swap_0_7_3.js",
+      "moduleMeta": "./cache/lwr_hmr_util_swap_0_7_3.meta.json"
+    }
+  ],
+  [
+    "lwr/metrics@0.7.3",
+    {
+      "ownHash": "dfbc827104d50ff7d16b59c9d0e06aca",
+      "module": "./cache/lwr_metrics_0_7_3.js",
+      "moduleMeta": "./cache/lwr_metrics_0_7_3.meta.json"
+    }
+  ],
+  [
     "ui/app#app.html@0.0.1",
     {
-      "ownHash": "bb20caf2cac99a65b1f2969d90da32fd",
+      "ownHash": "11ed53d75288d94f7b2ce579269e0fe8",
       "module": "./cache/ui_app_app_html_0_0_1.js",
       "moduleMeta": "./cache/ui_app_app_html_0_0_1.meta.json"
     }
