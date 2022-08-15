@@ -937,6 +937,11 @@
     estree-walker "^1.0.1"
     picomatch "^2.2.2"
 
+"@salesforce-ux/design-system@^2.18.1":
+  version "2.18.1"
+  resolved "https://registry.yarnpkg.com/@salesforce-ux/design-system/-/design-system-2.18.1.tgz#568a5d1d528c92fca0e1226af2c3ddbdaf04218f"
+  integrity sha512-yrnzHkafWRPDSAwyXrLjehbJIkLNTXJ61sOjorHQiExTopwcY+K6as3aFjHGpKzPS8OPXCzz9pQ8a34urcBmQg==
+
 "@types/accepts@*":
   version "1.3.5"
   resolved "https://registry.yarnpkg.com/@types/accepts/-/accepts-1.3.5.tgz#c34bec115cfc746e04fe5a059df4ce7e7b391575"
@@ -2664,6 +2669,11 @@ kuler@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/kuler/-/kuler-2.0.0.tgz#e2c570a3800388fb44407e851531c1d670b061b3"
   integrity sha512-Xq9nH7KlWZmXAtodXDDRE7vs6DU1gTU8zYDHDiWLSip45Egwq3plLHzPn27NgvzL2r1LMPC1vdqh98sQxtqj4A==
+
+lightning-base-components@^1.15.4-alpha:
+  version "1.15.4-alpha"
+  resolved "https://registry.yarnpkg.com/lightning-base-components/-/lightning-base-components-1.15.4-alpha.tgz#8e4c96416010843b66e0fef4f5aa87050b271870"
+  integrity sha512-+mVWrEpEgUzwOHc2pmpYvKjnPT/ViWoSpqw3bBewCKsp9d5veauDyul/vw6LKly97Nkq85F4d9trz7n2rOSxzg==
 
 line-column@~1.0.2:
   version "1.0.2"

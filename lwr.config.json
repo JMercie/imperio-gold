@@ -1,5 +1,8 @@
 {
-    "lwc": { "modules": [{ "dir": "$rootDir/src/modules" }] },
+    "lwc": { "modules": [{ "dir": "$rootDir/src/modules" }, {
+                "npm": "lightning-base-components"
+            }] },
+    "port": 3001,
     "assets": [
         {
             "alias": "assetsDir",
